@@ -1,0 +1,122 @@
+[
+  {
+    "id": "GOV-001",
+    "requirement": "The Board shall establish a clear governance structure with defined roles and responsibilities for its members and committees.",
+    "text_type": "paraphrase",
+    "source": "SAMA Key Principles of Governance in Financial Institutions (Version 2, 2024)",
+    "source_url": "https://rulebook.sama.gov.sa/en/key-principles-governance-financial-institutions-2",
+    "section": "Chapter II - Governance Structure",
+    "category": "Governance Structure",
+    "risk_weight": 5,
+    "criticality": "High",
+    "evidence_expected": "Documented governance framework, board charter, committee terms of reference."
+  },
+  {
+    "id": "GOV-002",
+    "requirement": "The institution must establish an independent compliance function with clearly defined responsibilities, authority, and adequate resources.",
+    "text_type": "paraphrase",
+    "source": "SAMA Key Principles of Governance in Financial Institutions (Version 2, 2024)",
+    "source_url": "https://rulebook.sama.gov.sa/en/key-principles-governance-financial-institutions-2",
+    "section": "Principle 5 - Compliance Function",
+    "category": "Compliance",
+    "risk_weight": 5,
+    "criticality": "High",
+    "evidence_expected": "Compliance charter, reporting lines, resource allocation documentation."
+  },
+  {
+    "id": "GOV-003",
+    "requirement": "The Board shall develop, approve, and monitor the implementation of a comprehensive risk management strategy aligned with the institution's risk appetite.",
+    "text_type": "paraphrase",
+    "source": "SAMA Key Principles of Governance in Financial Institutions (Version 2, 2024)",
+    "source_url": "https://rulebook.sama.gov.sa/en/key-principles-governance-financial-institutions-2",
+    "section": "Principle 3 - Risk Management",
+    "category": "Risk Management",
+    "risk_weight": 4,
+    "criticality": "High",
+    "evidence_expected": "Risk management policy, risk appetite statement, annual review records."
+  },
+  {
+    "id": "GOV-004",
+    "requirement": "The institution shall maintain effective internal control mechanisms including sound administrative and accounting procedures.",
+    "text_type": "paraphrase",
+    "source": "SAMA Key Principles of Governance in Financial Institutions (Version 2, 2024)",
+    "source_url": "https://rulebook.sama.gov.sa/en/key-principles-governance-financial-institutions-2",
+    "section": "Principle 6 - Internal Controls",
+    "category": "Internal Control",
+    "risk_weight": 4,
+    "criticality": "High",
+    "evidence_expected": "Internal control framework, internal audit charter, control testing reports."
+  },
+  {
+    "id": "GOV-005",
+    "requirement": "The Board shall ensure the independence of the internal audit function and its direct reporting line to the Audit Committee.",
+    "text_type": "paraphrase",
+    "source": "SAMA Key Principles of Governance in Financial Institutions (Version 2, 2024)",
+    "source_url": "https://rulebook.sama.gov.sa/en/key-principles-governance-financial-institutions-2",
+    "section": "Principle 7 - Internal Audit",
+    "category": "Internal Audit",
+    "risk_weight": 4,
+    "criticality": "High",
+    "evidence_expected": "Internal audit charter, reporting structure, audit committee minutes."
+  },
+  {
+    "id": "GOV-006",
+    "requirement": "The institution must maintain a documented policy review process with a defined review frequency.",
+    "text_type": "paraphrase",
+    "source": "SAMA Key Principles of Governance in Financial Institutions (Version 2, 2024)",
+    "source_url": "https://rulebook.sama.gov.sa/en/key-principles-governance-financial-institutions-2",
+    "section": "Chapter IV - Policy Framework",
+    "category": "Policy Management",
+    "risk_weight": 3,
+    "criticality": "Medium",
+    "evidence_expected": "Policy review schedule, version control records, approval workflow."
+  },
+  {
+    "id": "GOV-007",
+    "requirement": "The Board shall conduct regular self-assessments of its performance and effectiveness.",
+    "text_type": "paraphrase",
+    "source": "SAMA Key Principles of Governance in Financial Institutions (Version 2, 2024)",
+    "source_url": "https://rulebook.sama.gov.sa/en/key-principles-governance-financial-institutions-2",
+    "section": "Principle 8 - Board Effectiveness",
+    "category": "Board Effectiveness",
+    "risk_weight": 3,
+    "criticality": "Medium",
+    "evidence_expected": "Board evaluation records, assessment criteria, action plans."
+  },
+  {
+    "id": "GOV-008",
+    "requirement": "The institution shall establish policies and procedures for protecting whistleblowers and resolving complaints from stakeholders.",
+    "text_type": "paraphrase",
+    "source": "SAMA Key Principles of Governance in Financial Institutions (Version 2, 2024)",
+    "source_url": "https://rulebook.sama.gov.sa/en/key-principles-governance-financial-institutions-2",
+    "section": "Principle 9 - Ethics and Conduct",
+    "category": "Ethics",
+    "risk_weight": 4,
+    "criticality": "High",
+    "evidence_expected": "Whistleblower protection policy, complaints handling procedures, reporting channels."
+  },
+  {
+    "id": "GOV-009",
+    "requirement": "The institution shall maintain adequate documentation of all governance decisions and board proceedings.",
+    "text_type": "paraphrase",
+    "source": "SAMA Key Principles of Governance in Financial Institutions (Version 2, 2024)",
+    "source_url": "https://rulebook.sama.gov.sa/en/key-principles-governance-financial-institutions-2",
+    "section": "Chapter V - Documentation",
+    "category": "Documentation",
+    "risk_weight": 2,
+    "criticality": "Low",
+    "evidence_expected": "Meeting minutes, decision logs, document retention policy."
+  },
+  {
+    "id": "GOV-010",
+    "requirement": "The Board shall establish a clear and transparent remuneration policy for senior management and board members.",
+    "text_type": "paraphrase",
+    "source": "SAMA Key Principles of Governance in Financial Institutions (Version 2, 2024)",
+    "source_url": "https://rulebook.sama.gov.sa/en/key-principles-governance-financial-institutions-2",
+    "section": "Principle 10 - Remuneration",
+    "category": "Remuneration",
+    "risk_weight": 3,
+    "criticality": "Medium",
+    "evidence_expected": "Remuneration policy, compensation committee charter, approval process."
+  }
+]

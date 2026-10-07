@@ -1,0 +1,30 @@
+ABC Finance Company
+Corporate Governance Policy
+Version 3.0 - Last Updated: July 2026
+
+1. BOARD OF DIRECTORS
+The Board of Directors is responsible for overseeing the company's governance framework. The Board has established an Audit Committee, a Risk Committee, a Remuneration Committee, and a Nomination Committee. Each committee operates under a documented charter that defines its roles, responsibilities, and authority. The Board conducts an annual self-assessment of its performance using documented criteria, and action plans are developed based on the results.
+
+2. RISK MANAGEMENT
+The Risk Management department is responsible for identifying, assessing, and monitoring financial risks. The Board has developed and approved a comprehensive risk management strategy aligned with the institution's risk appetite. The strategy is reviewed annually, and the Board monitors its implementation through quarterly reports. The risk appetite statement is approved by the Board annually.
+
+3. COMPLIANCE
+The company has established an independent Compliance function with clearly defined responsibilities, authority, and adequate resources. The Compliance function reports directly to the Board's Audit Committee. Its responsibilities include monitoring regulatory changes, assessing compliance risks, and reporting compliance status to the Board quarterly.
+
+4. INTERNAL AUDIT
+The Internal Audit department conducts audits of the company's operations based on a risk-based audit plan. The department is independent and reports functionally to the Audit Committee, with direct reporting lines to the Board.
+
+5. POLICY REVIEW
+Policies are reviewed annually, or as needed when regulatory changes occur. The policy review process is documented, and version control is maintained. Each policy has a designated owner and an approval workflow.
+
+6. INTERNAL CONTROLS
+The company maintains effective internal control mechanisms including sound administrative and accounting procedures. The internal control framework is based on recognized standards (e.g., COSO) and is reviewed periodically. Control testing is performed by the Internal Audit function.
+
+7. DOCUMENTATION
+Board meeting minutes are recorded, approved, and retained in accordance with the document retention policy. Decision logs are maintained by the Board Secretary. All governance decisions are documented and traceable.
+
+8. WHISTLEBLOWING
+The company has a documented whistleblowing policy that allows employees and stakeholders to report concerns through protected reporting channels. The policy includes provisions for anonymity, non-retaliation, and investigation procedures.
+
+9. REMUNERATION
+The Board has established a clear and transparent remuneration policy for senior management and board members. The Remuneration Committee reviews and approves compensation packages based on documented criteria, including performance and market benchmarks.
